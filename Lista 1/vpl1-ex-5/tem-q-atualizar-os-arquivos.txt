@@ -1,0 +1,11 @@
+a 0 Marcelo 40
+a 4 Joao 50
+a 3 Maria 60
+a 2 Carlos 25
+a 1 Joana 70
+a 0 John 30
+p
+e 3
+r
+p
+e 3
